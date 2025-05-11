@@ -17,8 +17,6 @@ Exploring new tech and tools 💡📚
 
 🚀 My Goal: To build meaningful apps, contribute to open-source, and keep growing as a developer every day!
 
-🛠️ Tech I work with regularly:
-Flutter | Dart | Firebase | Unity | C# | Git/GitHub
 
 📎 Connect with me on LinkedIn:
 www.linkedin.com/in/mohammed-maagdy
